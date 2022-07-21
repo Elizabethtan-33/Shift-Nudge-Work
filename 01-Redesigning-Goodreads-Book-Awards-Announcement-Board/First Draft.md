@@ -2,7 +2,7 @@
 
 **Design Topics:** <br> Creating hierarchy using typography size & style
 <br>
-## AFTER <br>
+## After <br>
 👉[Figma Working Board](https://www.figma.com/file/bavE5DuXVJLVI2Lsusarvo/2-%E2%80%94-Typography?node-id=1%3A3) 
 <br>
 👉[Clickable Prototype](...) 
