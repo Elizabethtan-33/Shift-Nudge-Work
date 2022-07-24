@@ -1,7 +1,10 @@
-**Project Task:** Picking a favourite TV show and designing your ideal streaming service interface
+## Design Brief
+**Task:** Picking a favourite TV show and designing your ideal streaming service interface
 
-**Design Topics:** Focus on grids & containers to become faster at responsive design
+**Learning Topics:** Focus on grids & containers to become faster at responsive design
 
+
+## Mock Ups
 👉[Figma Working Board](https://www.figma.com/file/8OtRBAe03yaAyv5vaLdfwQ/3-%E2%80%94-Layout) 
 <br>
 👉[Clickable Prototype, Desktop](https://www.figma.com/proto/8OtRBAe03yaAyv5vaLdfwQ/3-%E2%80%94-Layout?page-id=6387%3A814&node-id=18764%3A1303&viewport=677%2C461%2C0.16&scaling=scale-down-width&starting-point-node-id=18764%3A1303&hotspot-hints=0&hide-ui=1)
